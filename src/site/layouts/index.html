@@ -155,6 +155,17 @@
 <a name="sponsors"></a>
 <div class="section sponsors">
   <h1>Sponsors</h1>
+  <h2>Headline Sponsors</h2>
+
+  <div class="list gold">
+    {{ range .Site.Params.sponsors.headline }}
+    <div><a href="{{ .link }}" target="_blank"><img width="{{.width}}px" class="grow" src="{{ .logo }}"
+          title="{{ .name }}" alt="{{ .name }}"></a></div>
+    {{ end }}
+  </div>
+
+  <div class="separator">&nbsp;</div>
+
   <h2>Gold Sponsors</h2>
 
   <div class="list gold">
@@ -163,12 +174,19 @@
           title="{{ .name }}" alt="{{ .name }}"></a></div>
     {{ end }}
   </div>
-
-  <div class="separator">&nbsp;</div>
-
+  
   <h2>Silver Sponsors</h2>
+
   <div class="list silver">
     {{ range .Site.Params.sponsors.silver }}
+    <div><a href="{{ .link }}" target="_blank"><img width="{{.width}}px" class="grow" src="{{ .logo }}"
+          title="{{ .name }}" alt="{{ .name }}"></a></div>
+    {{ end }}
+  </div>
+  
+  <h2>Community Sponsors</h2>
+  <div class="list community">
+    {{ range .Site.Params.sponsors.community }}
     <div><a href="{{ .link }}" target="_blank"><img width="{{.width}}px" class="grow" src="{{ .logo }}"
           title="{{ .name }}" alt="{{ .name }}"></a></div>
     {{ end }}
@@ -181,9 +199,10 @@
 
 <a name="coc"></a>
 <div class="section coc" style="border: 0">
-  <h2><img width="80" src="/images/moth_mascot.svg"> Code of Conduct (<a
+  <h2><img width="80" src="/images/moth_mascot.svg"> Code of Conduct</h2>
+  <h3><em>(<a
       href="https://docs.google.com/forms/d/e/1FAIpQLSc1qwXD_6mtAJo_kIRAVfl87HkdSi-1iUKbln_eN1JH03Th3A/viewform">Form to
-      report incidents</a>)</h2>
+      report incidents</a>)</em></h3>
   <div class="expanded">
     <p>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code
       of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all
