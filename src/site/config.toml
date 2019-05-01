@@ -5,7 +5,7 @@ title = "ServerlessDays Melbourne"
 [params]
     logo = "/images/serverless_logo_melb.png"
     description = "A community based conference focusing on Serverless based platforms and technologies. Melbourne, August 29, 2019"
-    mascot = "/images/UnicornDutchified.png"
+    mascot = "/images/octo_mascot.png"
     date = "August 29, 2019"
     city = "Melbourne"
     twitter = "ServerlessMEL"
@@ -21,7 +21,7 @@ title = "ServerlessDays Melbourne"
 [[params.dates]]
     date = "April 30, 2019"
     text = "Tickets go on Sale"
-    done = false
+    done = true
 
 [[params.dates]]
     date = "June 10, 2019"
@@ -40,7 +40,7 @@ title = "ServerlessDays Melbourne"
     text = "The venue is Melbourne Meuseum, it is a natural and cultural history museum located in the Carlton Gardens in Melbourne, Australia. Located adjacent to the Royal Exhibition Building, it is the largest museum in the Southern Hemisphere."
 
 [params.tickets]
-    price = "€65"
+    price = "$60"
     diversityLink = "https://diversitytickets.org/events/371/"
 
 [params.tickets.eventBrite]
