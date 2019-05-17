@@ -54,8 +54,8 @@ title = "ServerlessDays Melbourne"
     width = 200
 
 [[params.sponsors.headline]]
-    name = "Microsoft"
-    link = "https://microsoft.com/"
+    name = "Microsoft Azure"
+    link = "https://azure.microsoft.com/en-au/free/"
     logo = "https://i.imgur.com/lKwfRMK.png"
     width = 200
 
