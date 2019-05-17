@@ -50,20 +50,15 @@ title = "ServerlessDays Melbourne"
 [[params.sponsors.headline]]
     name = "AWS"
     link = "https://aws.amazon.com/"
-    logo = "https://i.imgur.com/g9feQ9v.png"
+    logo = "/images/sponsors/AWS.png"
     width = 200
 
 [[params.sponsors.headline]]
     name = "Microsoft Azure"
     link = "https://azure.microsoft.com/en-au/free/"
-    logo = "https://i.imgur.com/lKwfRMK.png"
-    width = 200
-
-# [[params.sponsors.silver]]
-#    name = "Mindcurv"
-#    link = "https://mindcurv.com/"
-#    logo = "https://i.imgur.com/ADE2fH3.png"
-#    width = 250
+    logo = "images/sponsors/Azure.png"
+    width = 400 
+# Width here is not favouritism, just a way to make both glyphs look equivalent in size
 
 [[params.agenda]]
     time = "8:00 - 9:00"
