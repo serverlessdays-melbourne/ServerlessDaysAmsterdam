@@ -57,8 +57,8 @@ title = "ServerlessDays Melbourne"
     name = "Microsoft Azure"
     link = "https://azure.microsoft.com/en-au/free/"
     logo = "images/sponsors/Azure.png"
-    width = 400 
-# Width here is not favouritism, just a way to make both glyphs look equivalent in size
+    width = 420 
+# Width here is not favouritism, just a way to make both glyphs look equivalent in size given MS Whitespace Requirements
 
 [[params.agenda]]
     time = "8:00 - 9:00"
