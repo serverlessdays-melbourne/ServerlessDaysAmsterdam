@@ -64,6 +64,7 @@ title = "ServerlessDays Melbourne"
     name = "Servian"
     link = "https://www.servian.com/"
     logo = "images/sponsors/servian.png"
+    width = 200
 
 [[params.agenda]]
     time = "8:00 - 9:00"
