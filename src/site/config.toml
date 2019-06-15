@@ -58,7 +58,6 @@ title = "ServerlessDays Melbourne"
     link = "https://azure.microsoft.com/en-au/free/"
     logo = "images/sponsors/Azure.png"
     width = 420 
-# Width here is not favouritism, just a way to make both glyphs look equivalent in size given MS Whitespace Requirements
 
 [[Params.sponsors.gold]]
     name = "Servian"
