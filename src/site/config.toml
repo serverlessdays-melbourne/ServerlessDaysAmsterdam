@@ -26,7 +26,7 @@ title = "ServerlessDays Melbourne"
 [[params.dates]]
     date = "June 10, 2019"
     text = "CFP Closes"
-    done = false
+    done = true
 
 [[params.dates]]
     date = "July 15, 2019"
@@ -59,6 +59,11 @@ title = "ServerlessDays Melbourne"
     logo = "images/sponsors/Azure.png"
     width = 420 
 # Width here is not favouritism, just a way to make both glyphs look equivalent in size given MS Whitespace Requirements
+
+[[Params.sponsors.gold]]
+    name = "Servian"
+    link = "https://www.servian.com/"
+    logo = "images/sponsors/servian.png"
 
 [[params.agenda]]
     time = "8:00 - 9:00"
