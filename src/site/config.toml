@@ -59,7 +59,7 @@ title = "ServerlessDays Melbourne"
     logo = "images/sponsors/Azure.png"
     width = 420 
 
-[[Params.sponsors.gold]]
+[[params.sponsors.gold]]
     name = "Servian"
     link = "https://www.servian.com/"
     logo = "images/sponsors/servian.png"
