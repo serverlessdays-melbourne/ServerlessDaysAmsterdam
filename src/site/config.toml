@@ -65,6 +65,18 @@ title = "ServerlessDays Melbourne"
     logo = "images/sponsors/servian.png"
     width = 200
 
+[[params.sponsors.community]]
+    name = "Twilio"
+    link = "https://www.twilio.com/"
+    logo = "images/sponsors/twilio-logo-red.png"
+    width = 200
+
+[[params.sponsors.community]]
+    name = "Just Digital People"
+    link = "https://www.justdigitalpeople.com.au/"
+    logo = "images/sponsors/justdigitalpeople.jpg"
+    width = 200
+
 [[params.agenda]]
     time = "8:00 - 9:00"
     type = "coffee"
