@@ -65,6 +65,12 @@ title = "ServerlessDays Melbourne"
     logo = "images/sponsors/servian.png"
     width = 200
 
+[[params.sponsors.silver]]
+    name = "MongoDB"
+    link = "https://www.mongodb.com/"
+    logo = "images/sponsors/MongoDB.jpg"
+    width = 200
+
 [[params.sponsors.community]]
     name = "Twilio"
     link = "https://www.twilio.com/"
