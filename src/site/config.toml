@@ -65,6 +65,12 @@ title = "ServerlessDays Melbourne"
     logo = "images/sponsors/servian.png"
     width = 200
 
+[[params.sponsors.gold]]
+    name = "IBM"
+    link = "https://www.ibm.com/"
+    logo = "images/sponsors/IBM_logoRR_blue60_RGB.gif"
+    width = 200
+
 [[params.sponsors.silver]]
     name = "MongoDB"
     link = "https://www.mongodb.com/"
