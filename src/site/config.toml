@@ -41,7 +41,7 @@ title = "ServerlessDays Melbourne"
 
 [params.tickets]
     price = "$60"
-    diversityLink = "https://diversitytickets.org/events/371/"
+    diversityLink = "https://diversitytickets.org/en/events/435/"
 
 [params.tickets.eventBrite]
     eventid = "55648142091"
