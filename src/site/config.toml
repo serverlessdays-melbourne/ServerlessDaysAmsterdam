@@ -60,15 +60,21 @@ title = "ServerlessDays Melbourne"
     width = 420 
 
 [[params.sponsors.gold]]
-    name = "Servian"
-    link = "https://www.servian.com/"
-    logo = "images/sponsors/servian.png"
+    name = "Apptio Cloudability"
+    link = "https://www.cloudability.com/"
+    logo = "images/sponsors/Apptio_Cloudability_Logo_lowres.png"
     width = 200
 
 [[params.sponsors.gold]]
     name = "IBM"
     link = "https://www.ibm.com/"
     logo = "images/sponsors/IBM_logoRR_blue60_RGB.gif"
+    width = 200
+
+[[params.sponsors.gold]]
+    name = "Servian"
+    link = "https://www.servian.com/"
+    logo = "images/sponsors/servian.png"
     width = 200
 
 [[params.sponsors.silver]]
