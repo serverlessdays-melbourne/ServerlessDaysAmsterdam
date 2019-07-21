@@ -145,8 +145,8 @@ title = "ServerlessDays Melbourne"
     title = "Lunch & Networking"
 [[params.agenda]]
     time = "14:05 - 14:40"
-    type = "talk"
-    talk = "bret-mcgowan"
+    type = "keynote"
+    talk = "danilo-poccia"
 [[params.agenda]]
     time = "14:40 - 15:15"
     type = "talk"
@@ -169,8 +169,8 @@ title = "ServerlessDays Melbourne"
     talk = "sam-chalela"
 [[params.agenda]]
     time = "17:10 - 17:40"
-    type = "keynote"
-    talk = "danilo-poccia"
+    type = "talk"
+    talk = "bret-mcgowan"
 [[params.agenda]]
     time = "17:40 - 17:50"
     type = "coffee"
