@@ -6,7 +6,9 @@ In this session Nelly will demonstrate how developers can quickly build a real-t
 
 Come along and see how Azure SignalR Service removes the pain of building real-time applications. There will be an interactive demonstration that everyone can participate in the implementation of which is the basis of the talk."
 speaker: Nelly Sattari
-bio: ""
+bio: "A lead developer who has been always in IT industry in her entire career.
+Web development is her main focus along with leading the front-end side of Sitecore CMS websites.
+So interested in sharing her knowledge and forming internal knowledge-sharing communities by running Brown Bags at work, supporting meetups, user groups ,and mentoring women in tech."
 image: /images/speakers/nelly.jpg
 twitter: nelly_sattari
 ---

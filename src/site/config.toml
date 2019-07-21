@@ -98,81 +98,85 @@ title = "ServerlessDays Melbourne"
 [[params.agenda]]
     time = "8:00 - 9:00"
     type = "coffee"
-    title = "Registration & Breakfast"
+    title = "Registration"
 [[params.agenda]]
     time = "9:00 - 9:15"
     type = "coffee"
     title = "Opening Remarks"
 [[params.agenda]]
-    time = "9:15 - 9:45"
-    type = "talk"
-    talk = "olaf-conijn"
+    time = "9:15 - 9:50"
+    type = "keynote"
+    talk = "jeff-hollan"
 [[params.agenda]]
-    time = "9:50 - 10:20"
+    time = "9:50 - 10:25"
     type = "talk"
-    talk = "michael-adda"
+    talk = "jessica-flanagan"
 [[params.agenda]]
-    time = "10:25 - 10:55"
-    type = "talk"
-    talk = "slobodan-stojanovic"
+    time = "10:25 - 10:45"
+    type = "lightning"
+    talk = "TBA"
 [[params.agenda]]
-    time = "10:55 - 11:15"
+    time = "10:45 - 11:00"
+    type = "lightning"
+    talk = "toshinori-sugita"
+[[params.agenda]]
+    time = "11:00 - 11:15"
     type = "coffee"
     title = "Coffee Break"
 [[params.agenda]]
-    time = "11:15 - 11:45"
+    time = "11:20 - 11:55"
     type = "talk"
-    talk = "asavari-tayal"
+    talk = "nelly-sattari"
 [[params.agenda]]
-    time = "11:50 - 12:20"
+    time = "11:55 - 12:30"
     type = "talk"
-    talk = "eduardo-laureano"
+    talk = "scott-coulton"
 [[params.agenda]]
-    time = "12:20 - 13:50"
+    time = "12:30 - 12:50"
+    type = "lightning"
+    talk = "effy-elden"
+[[params.agenda]]
+    time = "12:50 - 13:05"
+    type = "lightning"
+    talk = "tariq-younas"
+[[params.agenda]]
+    time = "13:05 - 14:05"
     type = "lunch"
-    talk = "lunch-signing"
+    title = "Lunch & Networking"
 [[params.agenda]]
-    time = "13:50 - 14:20"
+    time = "14:05 - 14:40"
     type = "talk"
-    talk = "hen-peretz"
+    title = "bret-mcgowan"
 [[params.agenda]]
-    time = "14:25 - 14:55"
+    time = "14:40 - 15:15"
     type = "talk"
-    talk = "ory-segal"
+    talk = "aditi-phadke"
 [[params.agenda]]
-    time = "14:55 - 15:20"
+    time = "15:15 - 15:50"
+    type = "talk"
+    talk = "aaron-powell"
+[[params.agenda]]
+    time = "15:50 - 16:10"
     type = "coffee"
     title = "Coffee Break"
 [[params.agenda]]
-    time = "15:20 - 15:50"
+    time = "16:10 - 16:40"
     type = "talk"
-    talk = "marc-duiker"
+    talk = "pratik-khasnabis"
 [[params.agenda]]
-    time = "15:55 - 16:25"
+    time = "16:40 - 17:10"
     type = "talk"
+    talk = "sam-chalela"
+[[params.agenda]]
+    time = "17:10 - 17:40"
+    type = "keynote"
     talk = "danilo-poccia"
 [[params.agenda]]
-    time = "16:30 - 16:40"
-    type = "lightning"
-    talk = "roberto-diaz"
-[[params.agenda]]
-    time = "16:40 - 16:50"
-    type = "lightning"
-    talk = "alessandro-vozza"
-[[params.agenda]]
-    time = "16:50 - 17:00"
-    type = "lightning"
-    talk = "henk-waanders"
-[[params.agenda]]
-    time = "17:00 - 17:10"
+    time = "17:40 - 17:50"
     type = "coffee"
-    title = "Closing Remarks"
-[[params.agenda]]
-    time = "17:10 - 18:00"
-    type = "coffee"
-    title = "Happy Hour & Networking"
+    title = "Closing remarks"
 [[params.agenda]]
     time = "18:00 - open end"
     type = "afterparty"
     talk = "afterparty"
-    description = "Afterparty at Café Delirium"
+    description = "Afterparty at Queensberry Hotel"
