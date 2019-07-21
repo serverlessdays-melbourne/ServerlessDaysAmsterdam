@@ -31,7 +31,7 @@ title = "ServerlessDays Melbourne"
 [[params.dates]]
     date = "July 22, 2019"
     text = "Schedule Announcement"
-    done = false
+    done = true
     
 [params.venue]
     name = "Melbourne Museum"
