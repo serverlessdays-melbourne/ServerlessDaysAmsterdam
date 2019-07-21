@@ -146,7 +146,7 @@ title = "ServerlessDays Melbourne"
 [[params.agenda]]
     time = "14:05 - 14:40"
     type = "talk"
-    title = "bret-mcgowan"
+    talk = "bret-mcgowan"
 [[params.agenda]]
     time = "14:40 - 15:15"
     type = "talk"
