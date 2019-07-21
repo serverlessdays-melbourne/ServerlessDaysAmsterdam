@@ -1,5 +1,5 @@
 ---
-title: "Title: Lets  use all the clouds!"
+title: "Lets  use all the clouds!"
 description: "With serverless technology gaining prominence in the tech industry, more and more cloud providers are starting to offer cloud functions, static website hosting, and other hosted services.
 
 As the space becomes crowded, it can be harder and harder to choose the best cloud for your serverless needs.

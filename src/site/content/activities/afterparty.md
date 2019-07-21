@@ -1,6 +1,6 @@
 ---
 title: Afterparty
 layout: afterparty
-description: TBA
+description: Queensberry Hotel
 image: /images/party.gif
 ---
