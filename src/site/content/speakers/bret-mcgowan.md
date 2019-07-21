@@ -4,7 +4,7 @@ description: "Come learn what serverless means for Google Cloud and Firebase, an
 speaker: Brett McGowan
 bio: "Bret is a Developer Advocate for Serverless on the Google Cloud Platform team at Google, focusing on serverless products like Google Cloud Functions, App Engine, Firebase, machine learning APIs, and more. He's currently an aspiring Node.js developer. Prior to Google, Bret worked as a software engineer in the cloud industry at Rackspace. He's often on the running trail, volleyball court or kickball field.
 
-Bret lives in New York City and earned a bachelorâ€™s degree in computer science from Texas A&M University.
+Bret lives in New York City and earned a bachelor's degree in computer science from Texas A&M University.
 
 Reach Bret on Twitter at @bretmcg."
 image: https://bretmcg.com/bret-mcgowen-headshot.jpg
