@@ -6,8 +6,6 @@ description: "There is news of yet another data breach every other day. New cybe
 
 I will share with you a few practical tips for security when building serverless applications in Azure. My definition of serverless includes the usual azure functions but also other services like azure storage, service bus, cosmosdb and virtual network that are frequently used together in a microservices architecture.
 
----
-
 - Do you know how to authorize a function app with AzureAD?
 - Do you know how to allow a backend api app to be called from only a front-end web/function app?
 - Do you know the best practice to securely store application config values such as connection strings or API keys?
