@@ -22,6 +22,6 @@ Lessons we learned
 Serverless works great, but it needs a different mindset, discipline and a learning curve for the developers, and we will share our experience about the same."
 speaker: Tristan Le Guillou
 secondSpeaker: Aditi Phadke
-bio: ""
+bio: "Tristan is a consultant who works both as a full stack developer and as Product Owner. Agile enthusiast, he likes to apply the Lean and Agile principles on any of his missions. After starting his graduate program he tried to focus on delivering better product. To that end, he focused on quality by applying the ways of Software Craftsmanship, while keeping the best of Agile and Lean methodologies on his project"
 image: /images/speakers/Tristan_Le_Guillou_(co_presenter).jpg
 ---
