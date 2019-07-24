@@ -100,81 +100,81 @@ title = "ServerlessDays Melbourne"
     type = "coffee"
     title = "Registration"
 [[params.agenda]]
-    time = "9:00 - 9:15"
-    type = "coffee"
-    title = "Opening Remarks"
+    time = "9:00 - 9:10"
+    type = "talk"
+    title = "lars-klint"
 [[params.agenda]]
-    time = "9:15 - 9:50"
+    time = "9:10 - 9:40"
     type = "keynote"
     talk = "jeff-hollan"
 [[params.agenda]]
-    time = "9:50 - 10:25"
+    time = "9:45 - 10:15"
     type = "talk"
     talk = "jessica-flanagan"
 [[params.agenda]]
-    time = "10:25 - 10:45"
+    time = "10:20 - 10:35"
     type = "lightning"
     talk = "has-altaiar"
 [[params.agenda]]
-    time = "10:45 - 11:00"
+    time = "10:35 - 10:50"
     type = "lightning"
     talk = "toshinori-sugita"
 [[params.agenda]]
-    time = "11:00 - 11:15"
+    time = "10:50 - 11:10"
     type = "coffee"
     title = "Coffee Break"
 [[params.agenda]]
-    time = "11:20 - 11:55"
+    time = "11:10 - 11:40"
     type = "talk"
     talk = "nelly-sattari"
 [[params.agenda]]
-    time = "11:55 - 12:30"
+    time = "11:45 - 12:15"
     type = "talk"
     talk = "scott-coulton"
 [[params.agenda]]
-    time = "12:30 - 12:50"
+    time = "12:20 - 12:35"
     type = "lightning"
     talk = "effy-elden"
 [[params.agenda]]
-    time = "12:50 - 13:05"
+    time = "12:40 - 12:55"
     type = "lightning"
     talk = "tariq-younas"
 [[params.agenda]]
-    time = "13:05 - 14:05"
+    time = "12:55 - 13:55"
     type = "lunch"
     title = "Lunch & Networking"
 [[params.agenda]]
-    time = "14:05 - 14:40"
+    time = "13:55 - 14:25"
     type = "keynote"
     talk = "danilo-poccia"
 [[params.agenda]]
-    time = "14:40 - 15:15"
+    time = "14:30 - 15:00"
     type = "talk"
     talk = "aditi-phadke"
 [[params.agenda]]
-    time = "15:15 - 15:50"
+    time = "15:05 - 15:35"
     type = "talk"
     talk = "aaron-powell"
 [[params.agenda]]
-    time = "15:50 - 16:10"
+    time = "15:35 - 15:50"
     type = "coffee"
     title = "Coffee Break"
 [[params.agenda]]
-    time = "16:10 - 16:45"
+    time = "15:50 - 16:20"
     type = "talk"
     talk = "pratik-khasnabis"
 [[params.agenda]]
-    time = "16:45 - 17:20"
+    time = "16:25 - 16:55"
     type = "talk"
     talk = "samuel-chalela"
 [[params.agenda]]
-    time = "17:20 - 17:50"
+    time = "17:00 - 17:30"
     type = "talk"
     talk = "bret-mcgowan"
 [[params.agenda]]
-    time = "17:50 - 18:00"
+    time = "17:30 - 17:40"
     type = "coffee"
-    title = "Closing remarks"
+    title = "Closing remarks - Organising Team"
 [[params.agenda]]
     time = "18:00 - open end"
     type = "afterparty"
