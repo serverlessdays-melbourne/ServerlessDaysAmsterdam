@@ -14,7 +14,7 @@
   </div>
   <div class="text">
     <h1> {{.Title}}</h1>
-    <p>{{.Description | markdownify}}</p>
+    {{.Description | markdownify}}
 
     <h2>{{.Params.speaker}}</h2>
     <p>{{.Params.bio}}</p>
