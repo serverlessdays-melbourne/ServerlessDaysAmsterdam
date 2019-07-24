@@ -1,7 +1,8 @@
 ---
 title: Does it matter? High Availability, and Disaster Recovery in Serverless solutions.
-description: "When we talk to customers about \"Serverless architectures\" the topic of High Availability and Disaster Recovery comes up, the perception usually is that in a Serverless world we don't care about these because, well; we are Serverless! 
-The flip side of the coin is different. In this talk, I will discuss the design and planning considerations for building robust serverless solutions using Microsoft Azure services example."
+description: |
+  When we talk to customers about "Serverless architectures" the topic of High Availability and Disaster Recovery comes up, the perception usually is that in a Serverless world we don't care about these because, well; we are Serverless! 
+  The flip side of the coin is different. In this talk, I will discuss the design and planning considerations for building robust serverless solutions using Microsoft Azure services example.
 speaker: Tariq Younas
 bio: "Tariq Younas carrying 12 years of ICT experience working in Auckland Transport as Cloud Operations Support Eng. Worked on different industry projects in Europe and the Middle East. His area of interest in Cloud Computing with the focus on Microsoft public and hybrid Cloud. He is also a participant in online Technology forums & and loves technical community speakings.
 
