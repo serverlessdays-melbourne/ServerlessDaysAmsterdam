@@ -102,7 +102,7 @@ title = "ServerlessDays Melbourne"
 [[params.agenda]]
     time = "9:00 - 9:10"
     type = "talk"
-    title = "lars-klint"
+    title = "Opening Remarks - Lars Klint"
 [[params.agenda]]
     time = "9:10 - 9:40"
     type = "keynote"
