@@ -114,7 +114,7 @@ title = "ServerlessDays Melbourne"
 [[params.agenda]]
     time = "10:25 - 10:45"
     type = "lightning"
-    talk = "TBA"
+    talk = "has-altaiar"
 [[params.agenda]]
     time = "10:45 - 11:00"
     type = "lightning"
