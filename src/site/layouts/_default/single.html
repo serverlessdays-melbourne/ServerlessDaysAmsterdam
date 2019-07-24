@@ -20,7 +20,8 @@
     <p>{{.Params.bio}}</p>
 
     <h2>Talk: {{.Title}}</h2>
-    <p>{{.Description}}</p>
+    <!--<p>{{.Description}}</p>-->
+    {{.Description | markdownify}}
 
     <a class="button" href="/#agenda">Back to the agenda</a>
   </div>
