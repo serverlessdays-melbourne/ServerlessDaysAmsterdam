@@ -11,5 +11,5 @@ description: |
 speaker: Aaron Powell
 bio: "Aaron is a Developer Advocate at Microsoft and former consultant at Readify. By day he spends his time in all facets of .NET development and by night he explores crazy ideas like writing your own implementation of numbers in .NET, creating IoC in JavaScript or implementing tic-tac-toe using git commits."
 image: /images/speakers/aaron-powell.png
-twitter: slance
+twitter: slace
 ---
