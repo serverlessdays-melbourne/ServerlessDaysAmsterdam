@@ -136,43 +136,43 @@ title = "ServerlessDays Melbourne"
     type = "lightning"
     talk = "effy-elden"
 [[params.agenda]]
-    time = "12:40 - 12:55"
+    time = "12:40 - 13:00"
     type = "lightning"
-    talk = "tariq-younas"
+    talk = "stefano-tempesta"
 [[params.agenda]]
-    time = "12:55 - 13:55"
+    time = "13:00 - 14:00"
     type = "lunch"
     title = "Lunch & Networking"
 [[params.agenda]]
-    time = "13:55 - 14:25"
+    time = "14:00 - 14:30"
     type = "keynote"
     talk = "danilo-poccia"
 [[params.agenda]]
-    time = "14:30 - 15:00"
+    time = "14:35 - 15:05"
     type = "talk"
     talk = "aditi-phadke"
 [[params.agenda]]
-    time = "15:05 - 15:35"
+    time = "15:10 - 15:40"
     type = "talk"
     talk = "aaron-powell"
 [[params.agenda]]
-    time = "15:35 - 15:50"
+    time = "15:40 - 15:55"
     type = "coffee"
     title = "Coffee Break"
 [[params.agenda]]
-    time = "15:50 - 16:20"
+    time = "15:55 - 16:25"
     type = "talk"
     talk = "pratik-khasnabis"
 [[params.agenda]]
-    time = "16:25 - 16:55"
+    time = "16:30 - 17:00"
     type = "talk"
     talk = "samuel-chalela"
 [[params.agenda]]
-    time = "17:00 - 17:30"
+    time = "17:05 - 17:35"
     type = "talk"
     talk = "bret-mcgowan"
 [[params.agenda]]
-    time = "17:30 - 17:40"
+    time = "17:35 - 17:45"
     type = "coffee"
     title = "Closing remarks - Organising Team"
 [[params.agenda]]
