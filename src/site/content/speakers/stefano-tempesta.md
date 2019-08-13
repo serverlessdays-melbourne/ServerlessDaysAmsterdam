@@ -8,6 +8,6 @@ description: |
   Pizza not included, sorry!
 speaker: Stefano Tempesta
 bio: "Stefano is a Microsoft Regional Director and MVP on AI and Business Applications. A regular speaker at international conferences, including Microsoft Ignite and Tech Summit, Stefanoâ€™s interests extends to blockchain and AI technologies."
-image: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/8780/IMG_9130_zoom.jpg
+image: https://rd.microsoft.com/en-us/media/profiles/stefano-tempesta.jpg
 twitter: stefanotempesta
 ---
