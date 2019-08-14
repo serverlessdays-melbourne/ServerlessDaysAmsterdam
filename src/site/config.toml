@@ -62,7 +62,13 @@ title = "ServerlessDays Melbourne"
 [[params.sponsors.gold]]
     name = "Apptio Cloudability"
     link = "https://www.cloudability.com/"
-    logo = "images/sponsors/Apptio_Cloudability_Logo_lowres.png"
+    logo = "images/sponsors/Apptio_Cloudability_Logo.png"
+    width = 200
+
+[[params.sponsors.gold]]
+    name = "Gitlab"
+    link = "https://about.gitlab.com/"
+    logo = "images/sponsors/gitlab.png"
     width = 200
 
 [[params.sponsors.gold]]
@@ -83,6 +89,12 @@ title = "ServerlessDays Melbourne"
     logo = "images/sponsors/MongoDB.jpg"
     width = 200
 
+[[params.sponsors.silver]]
+    name = "Nintex"
+    link = "https://www.nintex.com/"
+    logo = "images/sponsors/nintex.png"
+    width = 200
+
 [[params.sponsors.community]]
     name = "Twilio"
     link = "https://www.twilio.com/"
@@ -93,6 +105,12 @@ title = "ServerlessDays Melbourne"
     name = "Just Digital People"
     link = "https://www.justdigitalpeople.com.au/"
     logo = "images/sponsors/justdigitalpeople.jpg"
+    width = 200
+
+[[params.sponsors.community]]
+    name = "YOW!"
+    link = "https://yowconference.com/"
+    logo = "images/sponsors/yow.png"
     width = 200
 
 [[params.agenda]]
