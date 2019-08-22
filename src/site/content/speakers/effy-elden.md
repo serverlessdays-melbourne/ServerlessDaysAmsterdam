@@ -13,4 +13,5 @@ bio: "Effy Elden is a 24-year-old non-binary person who works as a consultant so
 
 As an avid technologist they are passionate about DevOps enablement and cloud infrastructure, and in their spare time they pursue activism in the fields of digital privacy and queer rights."
 image: /images/speakers/Effy_Elden_-_Headshot.JPG
+twitter: ineffyble
 ---
