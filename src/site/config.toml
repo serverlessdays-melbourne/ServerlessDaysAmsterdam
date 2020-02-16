@@ -4,7 +4,7 @@ title = "ServerlessDays Melbourne"
 
 [params]
     logo = "/images/serverless_logo_melb.png"
-    description = "A community based conference focusing on Serverless based platforms and technologies. Melbourne, August 29, 2019"
+    description = "A community based conference focusing on Serverless based platforms and technologies. Melbourne, August 20, 2020"
     mascot = "/images/octo_mascot.png"
     date = "August 20, 2020"
     city = "Melbourne"
