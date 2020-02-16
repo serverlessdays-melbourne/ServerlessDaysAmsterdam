@@ -127,6 +127,8 @@ nav.top-nav .menu a.highlight:active {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 5em;
+  background-blend-mode: multiply;
+  background-color: darkgray;
 }
 
 .button {
@@ -434,6 +436,12 @@ nav.top-nav .menu a.highlight:active {
   flex-direction: column;
 }
 
+.section.speakers h2 {
+  margin: 2em 0 1em 0;
+  font-size: 2em;
+  font-weight: bold;
+}
+
 .section.speakers .list {
   width: 80%;
   margin: auto;
@@ -708,6 +716,7 @@ nav.top-nav .menu a.highlight:active {
 
   .heroContainer .heroDate {
     border: 0;
+    flex: auto;
   }
 
   .heroContainer .heroDate .done {
