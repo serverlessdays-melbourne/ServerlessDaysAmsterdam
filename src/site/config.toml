@@ -5,12 +5,17 @@ title = "ServerlessDays Melbourne"
 [params]
     logo = "/images/serverless_logo_melb.png"
     description = "A community based conference focusing on Serverless based platforms and technologies. Melbourne, August 20, 2020"
-    mascot = "/images/octo_mascot.png"
+    mascot = "/images/octo_mascot.svg"
+    mascot1 = "/images/owl_mascot.svg"
+    mascot2 = "/images/unicorn_mascot.svg"
+    mascot3 = "/images/moth_mascot.svg"
+    mascot4 = "/images/dino_mascot.svg"
+    mascot5 = "/images/anteater_mascot.svg"
     date = "August 20, 2020"
     city = "Melbourne"
     twitter = "ServerlessMEL"
     email = "melbourne@serverlessdays.io"
-    backgroundImage = "/images/melbourne2.jpg"
+    backgroundImage = "/images/melbourne3.jpg"
     prospectus = "/ServerlessDays Prospectus Melbourne_v1.pdf"
 
 [[params.dates]]
@@ -40,12 +45,11 @@ title = "ServerlessDays Melbourne"
     text = "The Deakin Edge is a stunning glass theatre offering views across the Yarra River to the Arts Centre, the MCG and Alexandra Gardens, located in the heart of Melbourne's Federation Square."
 
 [params.tickets]
-    price = "$60"
+    earlybirdPrice = "$60"
+    price = "$75"
+    buyLink = "https://app.tickettailor.com/events/serverlessdaysmelbourne/354118" 
+    diversity = "$100"
     diversityLink = "https://diversitytickets.org/en/events/435/"
-
-[params.tickets.eventBrite]
-    eventid = "55648142091"
-    link = "https://www.eventbrite.com/e/serverlessdays-amsterdam-2019-tickets-55648142091"
 
 [[params.sponsors.headline]]
     name = "AWS"
@@ -112,6 +116,9 @@ title = "ServerlessDays Melbourne"
     link = "https://yowconference.com/"
     logo = "images/sponsors/yow.png"
     width = 170
+
+[params.agendainfo]
+    date = "15th July 2002"
 
 [[params.agenda]]
     time = "8:00 - 9:00"

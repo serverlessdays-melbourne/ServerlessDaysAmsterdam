@@ -128,7 +128,7 @@ nav.top-nav .menu a.highlight:active {
   background-size: cover;
   padding: 5em;
   background-blend-mode: multiply;
-  background-color: darkgray;
+  background-color: #555;
 }
 
 .button {
@@ -225,6 +225,12 @@ nav.top-nav .menu a.highlight:active {
   border-width: 3px 0;
   border-color: #19b1a3;
   border-style: solid;
+
+}
+
+.left {
+  display: inline;
+  padding-right: 25px;
 }
 
 .section .left {
@@ -251,8 +257,8 @@ nav.top-nav .menu a.highlight:active {
   font-size: 2.5em;
 }
 
-.section .left .image {
-  flex: 1 0 auto;
+.section .left img {
+  width: 100%;
 }
 
 .section .text {
@@ -748,6 +754,10 @@ nav.top-nav .menu a.highlight:active {
     align-items: center;
   }
 
+  .left {
+    
+  }
+
   .section .left {
     flex-direction: column-reverse;
     align-items:center;
@@ -755,6 +765,10 @@ nav.top-nav .menu a.highlight:active {
 
   .section .left .title h1 {
     margin-top:15px;
+  }
+
+  .section .left img {
+    width: 100%;
   }
 
   .section.agenda h2 {
