@@ -118,7 +118,7 @@ title = "ServerlessDays Melbourne"
     width = 170
 
 [params.agendainfo]
-    date = "15th July 2002"
+    date = "July 15th, 2002"
 
 [[params.agenda]]
     time = "8:00 - 9:00"
