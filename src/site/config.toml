@@ -4,48 +4,52 @@ title = "ServerlessDays Melbourne"
 
 [params]
     logo = "/images/serverless_logo_melb.png"
-    description = "A community based conference focusing on Serverless based platforms and technologies. Melbourne, August 29, 2019"
-    mascot = "/images/octo_mascot.png"
-    date = "August 29, 2019"
+    description = "A community based conference focusing on Serverless based platforms and technologies. Melbourne, August 20, 2020"
+    mascot = "/images/octo_mascot.svg"
+    mascot1 = "/images/owl_mascot.svg"
+    mascot2 = "/images/unicorn_mascot.svg"
+    mascot3 = "/images/moth_mascot.svg"
+    mascot4 = "/images/dino_mascot.svg"
+    mascot5 = "/images/anteater_mascot.svg"
+    date = "August 20, 2020"
     city = "Melbourne"
     twitter = "ServerlessMEL"
     email = "melbourne@serverlessdays.io"
-    backgroundImage = "/images/melbourne2.jpg"
-    prospectus = "/Prospectus-v3.pdf"
+    backgroundImage = "/images/melbourne3.jpg"
+    prospectus = "/ServerlessDays Prospectus Melbourne_v1.pdf"
 
 [[params.dates]]
-    date = "April 09, 2019"
+    date = "February 14, 2020"
     text = "CFP Opens"
     done = true
 
 [[params.dates]]
-    date = "April 30, 2019"
+    date = "February 23, 2020"
     text = "Tickets go on Sale"
     done = true
 
 [[params.dates]]
-    date = "June 10, 2019"
-    text = "CFP Closed"
-    done = true
+    date = "May 31, 2020"
+    text = "CFP Closes"
+    done = false
 
 [[params.dates]]
-    date = "July 22, 2019"
+    date = "July 15, 2020"
     text = "Schedule Announcement"
-    done = true
+    done = false
     
 [params.venue]
-    name = "Melbourne Museum"
-    link = "https://museumsvictoria.com.au/melbournemuseum/"
-    map = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12609.740989119078!2d144.9717408!3d-37.803273!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8f2c10c1546cc221!2sMelbourne+Museum!5e0!3m2!1sen!2sau!4v1554896925628!5m2!1sen!2sau"
-    text = "The venue is Melbourne Meuseum, it is a natural and cultural history museum located in the Carlton Gardens in Melbourne, Australia. Located adjacent to the Royal Exhibition Building, it is the largest museum in the Southern Hemisphere."
+    name = "Deakin Edge, Federation Square"
+    link = "https://fedsquare.com/event-space/the-edge"
+    map = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.7986792209813!2d144.96751751531895!3d-37.81818427975165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b71e5a183b%3A0xb0055a25e2ad1bde!2sDeakin%20Edge%2C%20Fed%20Square!5e0!3m2!1sen!2sau!4v1581853866223!5m2!1sen!2sau"
+    text = "The Deakin Edge is a stunning glass theatre offering views across the Yarra River to the Arts Centre, the MCG and Alexandra Gardens, located in the heart of Melbourne's Federation Square."
 
 [params.tickets]
-    price = "$60"
+    earlybirdPrice = "$60"
+    price = "$75"
+    buyLink = "https://buytickets.at/serverlessdaysmelbourne/354118" 
+    diversity = "$100"
     diversityLink = "https://diversitytickets.org/en/events/435/"
-
-[params.tickets.eventBrite]
-    eventid = "55648142091"
-    link = "https://www.eventbrite.com/e/serverlessdays-amsterdam-2019-tickets-55648142091"
 
 [[params.sponsors.headline]]
     name = "AWS"
@@ -112,6 +116,9 @@ title = "ServerlessDays Melbourne"
     link = "https://yowconference.com/"
     logo = "images/sponsors/yow.png"
     width = 170
+
+[params.agendainfo]
+    date = "July 15th, 2002"
 
 [[params.agenda]]
     time = "8:00 - 9:00"
