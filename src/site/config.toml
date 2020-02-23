@@ -47,7 +47,7 @@ title = "ServerlessDays Melbourne"
 [params.tickets]
     earlybirdPrice = "$60"
     price = "$75"
-    buyLink = "https://app.tickettailor.com/events/serverlessdaysmelbourne/354118" 
+    buyLink = "https://buytickets.at/serverlessdaysmelbourne/354118" 
     diversity = "$100"
     diversityLink = "https://diversitytickets.org/en/events/435/"
 
