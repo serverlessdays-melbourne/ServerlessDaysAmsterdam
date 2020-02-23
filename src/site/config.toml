@@ -24,9 +24,9 @@ title = "ServerlessDays Melbourne"
     done = true
 
 [[params.dates]]
-    date = "March 14, 2020"
+    date = "February 23, 2020"
     text = "Tickets go on Sale"
-    done = false
+    done = true
 
 [[params.dates]]
     date = "May 31, 2020"
