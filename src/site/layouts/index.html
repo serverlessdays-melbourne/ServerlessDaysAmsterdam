@@ -158,12 +158,14 @@
 <a name="sponsors"></a>
 <div class="section sponsors" style="border-top: 0">
   <h1>Sponsors</h1>
-  <!-- <h2>Headline Sponsors</h2>
+  <h2>Headline Sponsors</h2>
 
   <div class="list gold">
     {{ range .Site.Params.sponsors.headline }}
+    {{ if eq .confirmed true }}
     <div><a href="{{ .link }}" target="_blank"><img width="{{.width}}px" class="grow" src="{{ .logo }}"
           title="{{ .name }}" alt="{{ .name }}"></a></div>
+    {{ end }}
     {{ end }}
   </div>
 
@@ -173,25 +175,32 @@
 
   <div class="list gold">
     {{ range .Site.Params.sponsors.gold }}
+    {{ if eq .confirmed true }}
     <div><a href="{{ .link }}" target="_blank"><img width="{{.width}}px" class="grow" src="{{ .logo }}"
           title="{{ .name }}" alt="{{ .name }}"></a></div>
     {{ end }}
+    {{ end }}
   </div>
   
+  <!-- 
   <h2>Silver Sponsors</h2>
 
   <div class="list silver">
     {{ range .Site.Params.sponsors.silver }}
+    {{ if eq .confirmed true }}
     <div><a href="{{ .link }}" target="_blank"><img width="{{.width}}px" class="grow" src="{{ .logo }}"
           title="{{ .name }}" alt="{{ .name }}"></a></div>
+    {{ end }}
     {{ end }}
   </div>
   
   <h2>Community Sponsors</h2>
   <div class="list community">
     {{ range .Site.Params.sponsors.community }}
+    {{ if eq .confirmed true }}
     <div><a href="{{ .link }}" target="_blank"><img width="{{.width}}px" class="grow" src="{{ .logo }}"
           title="{{ .name }}" alt="{{ .name }}"></a></div>
+    {{ end }}
     {{ end }}
   </div>
 
