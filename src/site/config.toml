@@ -16,7 +16,7 @@ title = "ServerlessDays Melbourne"
     twitter = "ServerlessMEL"
     email = "melbourne@serverlessdays.io"
     backgroundImage = "/images/melbourne3.jpg"
-    prospectus = "/ServerlessDays Prospectus Melbourne_v1.pdf"
+    prospectus = "/ServerlessDays Prospectus Melbourne_v2.pdf"
 
 [[params.dates]]
     date = "February 14, 2020"
@@ -55,67 +55,85 @@ title = "ServerlessDays Melbourne"
     name = "AWS"
     link = "https://aws.amazon.com/"
     logo = "/images/sponsors/AWS.png"
-    width = 200
+    width = 220
+    confirmed = true
 
 [[params.sponsors.headline]]
     name = "Microsoft Azure"
     link = "https://azure.microsoft.com/en-au/free/"
     logo = "images/sponsors/Azure.png"
+    width = 420
+    confirmed = true
+
+[[params.sponsors.headline]]
+    name = "Contino"
+    link = "https://www.contino.io/"
+    logo = "images/sponsors/contino-logo.png"
     width = 420 
-
-[[params.sponsors.gold]]
-    name = "Apptio Cloudability"
-    link = "https://www.cloudability.com/"
-    logo = "images/sponsors/Apptio_Cloudability_Logo.png"
-    width = 200
-
-[[params.sponsors.gold]]
-    name = "Gitlab"
-    link = "https://about.gitlab.com/"
-    logo = "images/sponsors/gitlab.png"
-    width = 160
+    confirmed = true
 
 [[params.sponsors.gold]]
     name = "IBM"
     link = "https://www.ibm.com/"
     logo = "images/sponsors/IBM_logoRR_blue60_RGB.gif"
     width = 200
+    confirmed = true
 
 [[params.sponsors.gold]]
     name = "Servian"
     link = "https://www.servian.com/"
     logo = "images/sponsors/servian.png"
     width = 200
+    confirmed = true
+
+[[params.sponsors.gold]]
+    name = "Apptio Cloudability"
+    link = "https://www.cloudability.com/"
+    logo = "images/sponsors/Apptio_Cloudability_Logo.png"
+    width = 200
+    confirmed = false
+
+[[params.sponsors.gold]]
+    name = "Gitlab"
+    link = "https://about.gitlab.com/"
+    logo = "images/sponsors/gitlab.png"
+    width = 160
+    confirmed = false
 
 [[params.sponsors.silver]]
     name = "MongoDB"
     link = "https://www.mongodb.com/"
     logo = "images/sponsors/MongoDB.jpg"
     width = 200
+    confirmed = false
 
 [[params.sponsors.silver]]
     name = "Nintex"
     link = "https://www.nintex.com/"
     logo = "images/sponsors/nintex.png"
     width = 200
+    confirmed = false
 
 [[params.sponsors.community]]
     name = "Twilio"
     link = "https://www.twilio.com/"
     logo = "images/sponsors/twilio-logo-red.png"
     width = 200
+    confirmed = false
 
 [[params.sponsors.community]]
     name = "Just Digital People"
     link = "https://www.justdigitalpeople.com.au/"
     logo = "images/sponsors/justdigitalpeople.jpg"
     width = 200
+    confirmed = false
 
 [[params.sponsors.community]]
     name = "YOW!"
     link = "https://yowconference.com/"
     logo = "images/sponsors/yow.png"
     width = 170
+    confirmed = false
 
 [params.agendainfo]
     date = "July 15th, 2002"
