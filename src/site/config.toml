@@ -55,7 +55,7 @@ title = "ServerlessDays Melbourne"
     name = "AWS"
     link = "https://aws.amazon.com/"
     logo = "/images/sponsors/AWS.png"
-    width = 200
+    width = 220
     confirmed = true
 
 [[params.sponsors.headline]]
@@ -69,7 +69,7 @@ title = "ServerlessDays Melbourne"
     name = "Contino"
     link = "https://www.contino.io/"
     logo = "images/sponsors/contino-logo.png"
-    width = 220 
+    width = 420 
     confirmed = true
 
 [[params.sponsors.gold]]
