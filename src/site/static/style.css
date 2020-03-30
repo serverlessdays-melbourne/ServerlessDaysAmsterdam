@@ -272,6 +272,23 @@ nav.top-nav .menu a.highlight:active {
   margin-bottom: 1em;
 }
 
+.covid19 {
+  background-color: #107066;
+}
+
+.covid19 h1, .covid19 p, .covid19 ul li, .covid19 a {
+  color: white;
+}
+
+
+.section .covid19 {
+  display: block;
+}
+
+.section.covid19 .text ul li {
+  margin-bottom: 0.5rem;
+}
+
 .section.agenda {
   flex-direction: column;
 }
