@@ -31,12 +31,12 @@ title = "ServerlessDays Melbourne"
 [[params.dates]]
     date = "May 31, 2020"
     text = "CFP Closes"
-    done = false
+    done = true
 
 [[params.dates]]
-    date = "July 15, 2020"
-    text = "Schedule Announcement"
-    done = false
+    date = "July 1, 2020"
+    text = "Event Cancelled"
+    done = true
     
 [params.venue]
     name = "Deakin Edge, Federation Square"
@@ -213,7 +213,7 @@ title = "ServerlessDays Melbourne"
 [[params.agenda]]
     time = "17:05 - 17:35"
     type = "talk"
-    talk = "bret-mcgowan"
+    talk = "TBA"
 [[params.agenda]]
     time = "17:35 - 17:45"
     type = "coffee"
